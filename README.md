@@ -11,13 +11,12 @@ Este proyecto interactivo fue desarrollado como trabajo final para el curso **Py
 El objetivo principal es proporcionar una herramienta visual que permita a los tomadores de decisiones entender por qué la efectividad de las campañas disminuyó y qué variables (como la duración de la llamada, el nivel educativo o el canal de contacto) tienen mayor impacto en la conversión.
 
 ## 🖼️ Capturas de la Aplicación
-*Aquí puedes ver cómo luce la herramienta en funcionamiento:*
 
 ![Home Preview](home.png)
-*Interfaz principal con los objetivos y datos del autor.*
+*Interfaz principal*
 
 ![EDA Preview](EDA.png)
-*Análisis exploratorio detallado con gráficos dinámicos.*
+*Análisis exploratorio*
 
 ## 📁 Estructura del Repositorio
 ```bash
