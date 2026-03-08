@@ -13,10 +13,10 @@ El objetivo principal es proporcionar una herramienta visual que permita a los t
 ## 🖼️ Capturas de la Aplicación
 *Aquí puedes ver cómo luce la herramienta en funcionamiento:*
 
-![Home Preview](https://via.placeholder.com/800x400?text=Captura+de+Pantalla+Home+de+tu+App)
+![Home Preview](home.png)
 *Interfaz principal con los objetivos y datos del autor.*
 
-![EDA Preview](https://via.placeholder.com/800x400?text=Captura+de+Pantalla+analisis+EDA)
+![EDA Preview](EDA.png)
 *Análisis exploratorio detallado con gráficos dinámicos.*
 
 ## 📁 Estructura del Repositorio
