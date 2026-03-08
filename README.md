@@ -12,7 +12,13 @@ Este es mi primer proyecto de portafolio profesional. Se trata de una herramient
 La aplicación utiliza **Programación Orientada a Objetos (POO)** y ofrece un análisis exploratorio completo (EDA) con 10 ítems técnicos.
 
 ## 📁 Estructura del repositorio
- 
+
+## 👤 Información del Estudiante
+* **Nombre:** Bruno Pillaca
+* **Curso:** Fundamentos de Programación
+* **Año:** 2026
+
+--- 
 ```bash
 # Carpeta raíz del proyecto
 Bank-Marketing-Portafolio/
