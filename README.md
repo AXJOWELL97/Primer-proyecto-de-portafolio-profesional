@@ -6,9 +6,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ## 📝 Descripción del Proyecto
-Este proyecto interactivo fue desarrollado como trabajo final para el curso **Python for Analytics**. La aplicación analiza el éxito de las campañas de marketing directo de una institución financiera, procesando un dataset de más de 40,000 registros para identificar patrones de comportamiento en los clientes.
-
-El objetivo principal es proporcionar una herramienta visual que permita a los tomadores de decisiones entender por qué la efectividad de las campañas disminuyó y qué variables (como la duración de la llamada, el nivel educativo o el canal de contacto) tienen mayor impacto en la conversión.
+Este proyecto profesional analiza la efectividad de las campañas de marketing directo de una institución financiera. El objetivo es identificar los factores que influyen en la conversión de clientes para revertir la caída del éxito de campaña (del 12% al 8%).
 
 ## 🖼️ Capturas de la Aplicación
 
